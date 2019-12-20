@@ -4,7 +4,7 @@ Plugin Name: Custom ACF Widget
 Plugin URI: https://vander-web.com
 Description: Integrate ACF in a custom widget
 Author: Ulrik Vander
-Version: 3.6
+Version: 1.0.0
 Author URI: https://vander-web.com
 */
 
